@@ -1,0 +1,40 @@
+/*
+Theme Name: First
+Description: Typography for Japanese.
+*/
+
+html {
+	font-size: 81%;
+}
+@media screen and (min-width: 783px) {
+	html {
+		font-size: 90%;
+	}
+}
+body {
+	font-family: 'Open Sans', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	line-height: 1.7;
+}
+.header-navigation ul.menu > li.menu-item-has-children:after {
+	top: 11px;
+}
+@media screen and (min-width: 783px) {
+	.main-navigation div.menu > ul > li.page_item_has_children > a:after,
+	.main-navigation ul.menu > li.page_item_has_children > a:after,
+	.main-navigation div.menu > ul > li.menu-item-has-children > a:after,
+	.main-navigation ul.menu > li.menu-item-has-children > a:after {
+		top: 22px;
+	}
+}
+.menu li a::before {
+	padding: 7px 5px 3px;
+}
+.footer-navigation .menu li a::before {
+	padding: 5px 4px 3px;
+}
+.widget .menu li a::before {
+	padding: 7px 6px 5px;
+}
+.widget {
+	line-height: 1.6;
+}

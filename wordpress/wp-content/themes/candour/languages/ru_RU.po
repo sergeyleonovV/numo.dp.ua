@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Candour v1.1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-02 10:51+0200\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ candour
+#: 404.php:6
+msgid "The Page You Are Looking For Doesn&rsquo;t Exist."
+msgstr "Страница, которую вы запросили, не существует или была перемещена."
+
+# @ candour
+#: 404.php:7
+msgid "We are very sorry for the inconvenience."
+msgstr "Приносим извинения за причиненные неудобства."
+
+# @ candour
+#: 404.php:8
+msgid "Perhaps, Try using the search box below."
+msgstr "﻿Пожалуйста, используйте форму поиска ниже, чтобы найти информацию."
+
+# @ candour
+#: 404.php:10
+msgid "or"
+msgstr "или"
+
+# @ candour
+#: 404.php:11 no-results.php:13
+msgid "Go to Homepage"
+msgstr "На Главную"
+
+# @ candour
+#: admin/settings.php:9
+msgid "Background Color"
+msgstr "Цвет фона"
+
+# @ candour
+#: admin/settings.php:11
+msgid "Inner Background Color"
+msgstr "Внутренний цвет фона"
+
+# @ candour
+#: admin/settings.php:13
+msgid "Primary Color "
+msgstr "Основной цвет"
+
+# @ candour
+#: admin/settings.php:29
+msgid "Site Logo"
+msgstr "Логотип"
+
+# @ candour
+#: admin/settings.php:31
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Загрузите логотип для замены стандартного имени сайта в заголовке"
+
+# @ candour
+#: admin/settings.php:37
+msgid "Site Logo ( Recommended height - 60px)"
+msgstr "Логотип сайта (Рекомендуемая высота - 60px)"
+
+# @ candour
+#: admin/settings.php:49
+msgid "Sidebbar Position"
+msgstr "Расположение сайдбара"
+
+# @ candour
+#: admin/settings.php:50
+msgid "Select Sidebar Position."
+msgstr "Выберите расположение сайдбара"
+
+# @ candour
+#: admin/settings.php:61
+msgid "Display Sidebar on Left or Right"
+msgstr "Показывать сайдбар слева или справа"
+
+# @ candour
+#: admin/settings.php:65 admin/settings.php:72
+msgid "Right (Default)"
+msgstr "Справа (по умолчанию)"
+
+# @ candour
+#: admin/settings.php:66 admin/settings.php:73
+msgid "Left"
+msgstr "Слева"
+
+# @ candour
+#: admin/settings.php:87
+msgid "Social Links"
+msgstr "Ссылки соц. сетей"
+
+# @ candour
+#: admin/settings.php:88
+msgid "Add Your Social Links Here."
+msgstr "Ссылки соц. сетей"
+
+# @ candour
+#: admin/settings.php:112
+msgid "Footer Copyright"
+msgstr "Подвал | Copyright"
+
+# @ candour
+#: admin/settings.php:113
+msgid "Add Your Copyright Notes Here."
+msgstr "Добавить ваши авторские права и примечания здесь."
+
+# @ candour
+#: archive.php:8
+msgid "Posts Categorized:"
+msgstr "Категории:"
+
+# @ candour
+#: archive.php:14
+msgid "Posts Tagged:"
+msgstr "Теги:"
+
+# @ candour
+#: archive.php:22
+msgid "Posts By:"
+msgstr "Автор:"
+
+# @ candour
+#: archive.php:28
+msgid "Daily Archives:"
+msgstr "Архивы за день:"
+
+# @ candour
+#: archive.php:34
+msgid "Monthly Archives:"
+msgstr "Архивы за месяц:"
+
+# @ candour
+#: archive.php:40
+msgid "Yearly Archives:"
+msgstr "Архивы за год:"
+
+# @ candour
+#: attachment.php:43 single.php:19
+msgid "Tags:"
+msgstr "Метки:"
+
+# @ candour
+#: attachment.php:45 functions/theme-functions.php:1 page.php:16 single.php:21
+#: template_authors.php:34 template_fullwidth.php:18
+msgid "Edit"
+msgstr "Изменить"
+
+# @ candour
+#: attachment.php:48
+msgid "<< Previous"
+msgstr "<< Назад"
+
+# @ candour
+#: attachment.php:49
+msgid "Next >>"
+msgstr "Вперед >>"
+
+# @ candour
+#: category.php:5
+msgid "Latest Posts Under:"
+msgstr "Последние записи:"
+
+# @ candour
+#: comments.php:11
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+# @ candour
+#: comments.php:11 inc/post-meta.php:6
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+# @ candour
+#: comments.php:11 inc/post-meta.php:6
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+# @ candour
+#: comments.php:16 comments.php:26
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ candour
+#: comments.php:17 comments.php:27
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+# @ candour
+#: comments.php:18 comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+# @ candour
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ candour
+#: footer.php:34
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+# @ candour
+#: footer.php:36
+msgid "Powered by "
+msgstr ""
+
+# @ candour
+#: footer.php:41
+msgid "Scroll To Top"
+msgstr "Наверх"
+
+# @ candour
+#: functions/theme-functions.php:1
+msgid "Read Article"
+msgstr "Читать далее"
+
+# @ candour
+#: functions/theme-functions.php:1
+msgid "Untitled"
+msgstr "Без названия"
+
+# @ candour
+#: functions/theme-functions.php:1
+msgid "Pingback:"
+msgstr ""
+
+# @ candour
+#: functions/theme-functions.php:1
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ candour
+#: functions/widgetize-theme.php:4
+msgid "Primary Sidebar"
+msgstr "Основной сайдбар"
+
+# @ candour
+#: functions.php:28
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ candour
+#: functions.php:29
+msgid "Footer Menu"
+msgstr ""
+
+# @ candour
+#: inc/author-bio.php:8 search.php:15
+msgid "By"
+msgstr "Автор:"
+
+# @ candour
+#: inc/author-bio.php:15
+msgid "Visit my Website"
+msgstr ""
+
+# @ candour
+#: inc/paginatelinks.php:22
+#, php-format
+msgid "Page %d of "
+msgstr ""
+
+# @ candour
+#: inc/post-meta.php:3
+msgid "Updated on "
+msgstr "Обновлено: "
+
+# @ candour
+#: inc/post-meta.php:4
+msgid "By "
+msgstr "Автор: "
+
+# @ candour
+#: inc/post-meta.php:4 index.php:8 loop.php:5 search.php:15
+#, php-format
+msgid "View all posts by %s"
+msgstr "Все записи автора: %s"
+
+# @ candour
+#: inc/post-meta.php:6
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ candour
+#: no-results.php:6
+msgid "Oops..! No Results Found."
+msgstr "Ничего не найдено"
+
+# @ candour
+#: no-results.php:7
+msgid "Perhaps, Try searching with different keywords."
+msgstr "Пожалуйста, попробуйте изменить поисковый запрос:"
+
+# @ candour
+#: no-results.php:12
+msgid "Or"
+msgstr "или"
+
+# @ candour
+#: page.php:13 single.php:15 template_authors.php:30 template_fullwidth.php:15
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ candour
+#: search.php:6
+msgid "Search Results For:"
+msgstr "Результаты поиска:"
+
+# @ candour
+#: searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+# @ candour
+#: sidebar.php:10
+msgid "Please activate some Widgets."
+msgstr "Пожалуйста, включите некоторые виджеты."
+
+# @ candour
+#: template_authors.php:24
+msgid "View Posts"
+msgstr "﻿Посмотреть все записи"
