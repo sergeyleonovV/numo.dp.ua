@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: First\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/first\n"
+"POT-Creation-Date: 2014-09-03 13:58+0900\n"
+"PO-Revision-Date: 2014-09-03 14:01+0900\n"
+"Last-Translator: Takao Utsumi <takao.utsumi@gmail.com>\n"
+"Language-Team: Takao Utsumi <takao.utsumi@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.9\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "ページが見つかりませんでした。"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ここには何も見つかりませんでした。検索を試してみますか？"
+
+#: archive.php:21
+#, php-format
+msgid "Category: %s"
+msgstr "カテゴリー：%s"
+
+#: archive.php:24
+#, php-format
+msgid "Tag: %s"
+msgstr "タグ：%s"
+
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "投稿者：%s"
+
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "%s"
+
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "%s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "%s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "アサイド"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: archive.php:45
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "ビデオ"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:54
+msgid "Links"
+msgstr "リンク"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "ステータス"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音声"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "チャット"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: comments.php:28 inc/template-tags.php:110
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: comments.php:28 inc/template-tags.php:110
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "コメントはできません。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿をする準備ができましたか？<a href=\"%1$s\">こちらからどうぞ</a>。"
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"キーワードに一致するコンテンツは見つかりませんでした。他のキーワードを試して"
+"みてください。"
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのものは見つからないようです。検索が助けとなるかもしれません。"
+
+#: content-page.php:16 content-single.php:18 content.php:26
+msgid "Pages:"
+msgstr "ページ："
+
+#: content.php:21 content.php:25
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">続きを読む &rarr;</span>"
+
+#: footer.php:30
+#, php-format
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr "Powered by <a href=\"%1$s\">%2$s</a>"
+
+#: footer.php:30
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: footer.php:32
+#, php-format
+msgid "Theme by <a href=\"%1$s\">%2$s</a>"
+msgstr "Theme by <a href=\"%1$s\">%2$s</a>"
+
+#: footer.php:32
+msgid "http://themehaus.net/"
+msgstr "http://themehaus.net/ja/"
+
+#: functions.php:47
+msgid "Navigation Bar"
+msgstr "ナビゲーションバー"
+
+#: functions.php:48
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:96
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:98
+msgid "Sidebar. If none, layout would be one-column."
+msgstr "サイドバー。使用しなければ表示されません。"
+
+#: functions.php:106
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: functions.php:108
+msgid "Left of the footer."
+msgstr "フッター左"
+
+#: functions.php:115
+msgid "Footer 2"
+msgstr "フッター2"
+
+#: functions.php:117
+msgid "Center of the footer."
+msgstr "フッター中央"
+
+#: functions.php:124
+msgid "Footer 3"
+msgstr "フッター3"
+
+#: functions.php:126
+msgid "Right of the footer."
+msgstr "フッター右"
+
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: header.php:57
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/customizer.php:36
+msgid "Hide Tagline"
+msgstr "キャッチフレーズを表示しない"
+
+#: inc/customizer.php:43
+msgid "Fonts"
+msgstr "フォント"
+
+#: inc/customizer.php:50
+msgid "Headings Font"
+msgstr "見出しフォント"
+
+#: inc/customizer.php:54 inc/customizer.php:92 inc/customizer.php:163
+#: inc/customizer.php:238
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer.php:79
+msgid "Headings Font Size (%)"
+msgstr "見出しフォントサイズ (%)"
+
+#: inc/customizer.php:88
+msgid "Body Font"
+msgstr "本文フォント"
+
+#: inc/customizer.php:112
+msgid "Body Font Size (px)"
+msgstr "本文フォントサイズ (px)"
+
+#: inc/customizer.php:125
+msgid "Menu Background Color"
+msgstr "メニュー背景色"
+
+#: inc/customizer.php:134
+msgid "Footer Background Color"
+msgstr "フッター背景色"
+
+#: inc/customizer.php:143
+msgid "Link Color"
+msgstr "リンクカラー"
+
+#: inc/customizer.php:151
+msgid "Link Hover Color"
+msgstr "リンクホバーカラー"
+
+#: inc/customizer.php:159
+msgid "Color Scheme"
+msgstr "色セット"
+
+#: inc/customizer.php:173
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer.php:179 inc/customizer.php:187
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer.php:191
+msgid "Boxed"
+msgstr "ボックス"
+
+#: inc/customizer.php:192
+msgid "Wide"
+msgstr "ワイド"
+
+#: inc/customizer.php:201
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#: inc/customizer.php:205 inc/customizer.php:219
+msgid "Side"
+msgstr "サイド"
+
+#: inc/customizer.php:206 inc/customizer.php:220
+msgid "Center"
+msgstr "中央寄せ"
+
+#: inc/customizer.php:215
+msgid "Footer Layout"
+msgstr "フッターレイアウト"
+
+#: inc/customizer.php:227
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer.php:234
+msgid "Font"
+msgstr "フォント"
+
+#: inc/customizer.php:268
+msgid "Font Weight"
+msgstr "フォントウェイト"
+
+#: inc/customizer.php:272
+msgid "Bold"
+msgstr "太字"
+
+#: inc/customizer.php:273
+msgid "Normal"
+msgstr "標準"
+
+#: inc/customizer.php:274
+msgid "Light"
+msgstr "細字"
+
+#: inc/customizer.php:284
+msgid "Font Size (px)"
+msgstr "フォントサイズ (px)"
+
+#: inc/customizer.php:294
+msgid "Font Color"
+msgstr "フォントカラー"
+
+#: inc/customizer.php:304
+msgid "Letter Spacing (px)"
+msgstr "文字間 (px)"
+
+#: inc/customizer.php:315 inc/customizer.php:388
+msgid "Margin Top (px)"
+msgstr "上マージン (px)"
+
+#: inc/customizer.php:326 inc/customizer.php:399
+msgid "Margin Bottom (px)"
+msgstr "下マージン (px)"
+
+#: inc/customizer.php:336
+msgid "All Uppercase"
+msgstr "全て大文字にする"
+
+#: inc/customizer.php:344
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer.php:351
+msgid "Upload Logo"
+msgstr "ロゴアップロード"
+
+#: inc/customizer.php:359
+msgid "Replace Title"
+msgstr "サイトタイトルと置き換える"
+
+#: inc/customizer.php:368
+msgid "Retina Ready"
+msgstr "レティーナ対応"
+
+#: inc/customizer.php:377
+msgid "Add Border Radius"
+msgstr "丸く切り抜く"
+
+#: inc/customizer.php:413
+msgid "Hide Navigation Bar"
+msgstr "ナビゲーションバーを表示しない"
+
+#: inc/customizer.php:422
+msgid "Hide Serach"
+msgstr "検索を表示しない"
+
+#: inc/customizer.php:433
+msgid "Post"
+msgstr "投稿"
+
+#: inc/customizer.php:440
+msgid "Display"
+msgstr "表示"
+
+#: inc/customizer.php:444
+msgid "Summary"
+msgstr "概要"
+
+#: inc/customizer.php:445
+msgid "Full text"
+msgstr "全文"
+
+#: inc/customizer.php:453
+msgid "Hide Author"
+msgstr "投稿者を表示しない"
+
+#: inc/customizer.php:462
+msgid "Hide Categories"
+msgstr "カテゴリーを表示しない"
+
+#: inc/customizer.php:470
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer.php:478
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: inc/customizer.php:486
+msgid "Hide Credit"
+msgstr "クレジットを表示しない"
+
+#: inc/customizer.php:494 inc/customizer.php:503
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: inc/customizer.php:512
+msgid "Custom Google Fonts"
+msgstr "カスタムGoogleフォント"
+
+#: inc/extras.php:47
+#, php-format
+msgid "Page %s"
+msgstr "%sページ目"
+
+#: inc/template-tags.php:38
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:42
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 古い投稿"
+
+#: inc/template-tags.php:46
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:69
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:72
+msgid "Previous post"
+msgstr "前の投稿"
+
+#: inc/template-tags.php:72
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:73
+msgid "Next post"
+msgstr "次の投稿"
+
+#: inc/template-tags.php:73
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:110
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:113
+msgid "Featured"
+msgstr "注目"
+
+#: inc/template-tags.php:126 inc/template-tags.php:134
+msgid ", "
+msgstr ", "
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%sの検索結果"
+
+#. Theme URI of the plugin/theme
+msgid "http://themehaus.net/themes/first/"
+msgstr "http://themehaus.net/ja/themes/first/"
+
+#. Description of the plugin/theme
+msgid ""
+"First is a simple yet flexible Wordpress theme for blogs. From beginner "
+"bloggers to pro bloggers, it has features for everyone. First is made using "
+"responsive design, so it offers a pleasant reading experience even on "
+"tablets and smartphones. First comes with 4 widgets and 2 menus. Because the "
+"customizer also allows you to set up custom headers and backgrounds, you can "
+"set your blog up just the way you want it."
+msgstr ""
+"Firstはシンプルかつ柔軟なブログ向けWordPressテーマです。ブログ初心者から本格"
+"的なブロガーまで、幅広い人に対応します。Firstはレスポンシブデザインで作られて"
+"おり、スマートフォンやタブレットからでも快適に閲覧することができます。Firstは"
+"4つのウィジェット・2つのメニューを備えています。またカスタマイザ―・カスタム"
+"ヘッダー・カスタム背景にも対応しているため、柔軟な設定が可能です。"
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "Takao Utsumi"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "サイドバー無し"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "全幅"
+
+#~ msgctxt "Previous post link"
+#~ msgid "<span class=\"meta-nav\">&larr;</span> %title"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#~ msgctxt "Next post link"
+#~ msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "%title <span class=\"meta-nav\">&rarr;</span>"

@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: First v1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-18 10:15:13+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ first
+msgid "That page can&rsquo;t be found."
+msgstr "страница не найдена"
+
+#: 404.php:19
+#@ first
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "К сожалению, ничего не найдено."
+
+#: archive.php:21
+#, php-format
+#@ first
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: archive.php:24
+#, php-format
+#@ first
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: archive.php:27
+#, php-format
+#@ first
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:30
+#, php-format
+#@ first
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:33
+#, php-format
+#@ first
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:33
+#@ first
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+#@ first
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:36
+#@ first
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+#@ first
+msgid "Asides"
+msgstr "Формат"
+
+#: archive.php:42
+#@ first
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:45
+#@ first
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:48
+#@ first
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:51
+#@ first
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:54
+#@ first
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:57
+#@ first
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:60
+#@ first
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:63
+#@ first
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:66
+#@ first
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:28
+#: inc/template-tags.php:110
+#@ first
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: comments.php:28
+#: inc/template-tags.php:110
+#@ first
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: comments.php:34
+#: comments.php:52
+#@ first
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:35
+#: comments.php:53
+#@ first
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:36
+#: comments.php:54
+#@ first
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:64
+#@ first
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: content-none.php:13
+#@ first
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+#, php-format
+#@ first
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Вперед</a>."
+
+#: content-none.php:23
+#@ first
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено."
+
+#: content-none.php:28
+#@ first
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Попробуйте воспользоваться поиском."
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:26
+#@ first
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:21
+#: content.php:25
+#@ first
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">Читать далее &rarr;</span>"
+
+#: footer.php:30
+#, php-format
+#@ first
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: footer.php:30
+#@ first
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:32
+#, php-format
+#@ first
+msgid "Theme by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: footer.php:32
+#@ first
+msgid "http://themehaus.net/"
+msgstr ""
+
+#: functions.php:48
+#@ first
+msgid "Navigation Bar"
+msgstr "Навигация"
+
+#: functions.php:49
+#@ first
+msgid "Header Menu"
+msgstr "Меню в шапке"
+
+#: functions.php:50
+#@ first
+msgid "Footer Menu"
+msgstr "Меню в футере"
+
+#: functions.php:108
+#@ first
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:110
+#@ first
+msgid "Sidebar. If none, layout would be one-column."
+msgstr ""
+
+#: functions.php:118
+#@ first
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:120
+#@ first
+msgid "Left of the footer."
+msgstr ""
+
+#: functions.php:127
+#@ first
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:129
+#@ first
+msgid "Center of the footer."
+msgstr ""
+
+#: functions.php:136
+#@ first
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:138
+#@ first
+msgid "Right of the footer."
+msgstr ""
+
+#: functions.php:160
+#@ first
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:29
+#@ first
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:57
+#@ first
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer.php:36
+#@ first
+msgid "Hide Tagline"
+msgstr "Скрыть tagline"
+
+#: inc/customizer.php:43
+#@ first
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: inc/customizer.php:50
+#@ first
+msgid "Headings Font"
+msgstr "Шрифты в шапке"
+
+#: inc/customizer.php:54
+#: inc/customizer.php:92
+#: inc/customizer.php:163
+#: inc/customizer.php:238
+#@ first
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:79
+#@ first
+msgid "Headings Font Size (%)"
+msgstr "Размер шрифтов в шапке (%)"
+
+#: inc/customizer.php:88
+#@ first
+msgid "Body Font"
+msgstr "Шрифт сайта"
+
+#: inc/customizer.php:112
+#@ first
+msgid "Body Font Size (px)"
+msgstr "Размер шрифта сайта (px)"
+
+#: inc/customizer.php:125
+#@ first
+msgid "Menu Background Color"
+msgstr "Цвет фона меню"
+
+#: inc/customizer.php:134
+#@ first
+msgid "Footer Background Color"
+msgstr "Цвет фона футера"
+
+#: inc/customizer.php:143
+#@ first
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer.php:151
+#@ first
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer.php:159
+#@ first
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:173
+#@ first
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer.php:179
+#: inc/customizer.php:187
+#@ first
+msgid "Layout"
+msgstr "Структура"
+
+#: inc/customizer.php:191
+#@ first
+msgid "Boxed"
+msgstr "Ограниченная ширина"
+
+#: inc/customizer.php:192
+#@ first
+msgid "Wide"
+msgstr "На всю ширину"
+
+#: inc/customizer.php:201
+#@ first
+msgid "Header Layout"
+msgstr "Структура шапки"
+
+#: inc/customizer.php:205
+#: inc/customizer.php:219
+#@ first
+msgid "Side"
+msgstr "Сторона"
+
+#: inc/customizer.php:206
+#: inc/customizer.php:220
+#@ first
+msgid "Center"
+msgstr "Центр"
+
+#: inc/customizer.php:215
+#@ first
+msgid "Footer Layout"
+msgstr "Структура футера"
+
+#: inc/customizer.php:227
+#@ first
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer.php:234
+#@ first
+msgid "Font"
+msgstr "Шрифт"
+
+#: inc/customizer.php:268
+#@ first
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/customizer.php:272
+#@ first
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/customizer.php:273
+#@ first
+msgid "Normal"
+msgstr "Нормальный"
+
+#: inc/customizer.php:274
+#@ first
+msgid "Light"
+msgstr "Тонкий"
+
+#: inc/customizer.php:284
+#@ first
+msgid "Font Size (px)"
+msgstr "Размер шрифта (px)"
+
+#: inc/customizer.php:294
+#@ first
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/customizer.php:304
+#@ first
+msgid "Letter Spacing (px)"
+msgstr "Межбуквенное расстояние (px)"
+
+#: inc/customizer.php:315
+#: inc/customizer.php:388
+#@ first
+msgid "Margin Top (px)"
+msgstr "Отступ сверха (px)"
+
+#: inc/customizer.php:326
+#: inc/customizer.php:399
+#@ first
+msgid "Margin Bottom (px)"
+msgstr "Отступ сниза (px)"
+
+#: inc/customizer.php:336
+#@ first
+msgid "All Uppercase"
+msgstr "Все заглавными"
+
+#: inc/customizer.php:344
+#@ first
+msgid "Logo"
+msgstr "Лого"
+
+#: inc/customizer.php:351
+#@ first
+msgid "Upload Logo"
+msgstr "Загрузить лого"
+
+#: inc/customizer.php:359
+#@ first
+msgid "Replace Title"
+msgstr "Заменить заголовок"
+
+#: inc/customizer.php:368
+#@ first
+msgid "Retina Ready"
+msgstr "Поддержка Retina"
+
+#: inc/customizer.php:377
+#@ first
+msgid "Add Border Radius"
+msgstr "Добавить закругленные углы"
+
+#: inc/customizer.php:413
+#@ first
+msgid "Hide Navigation Bar"
+msgstr "Скрыть навигацию"
+
+#: inc/customizer.php:422
+#@ first
+msgid "Hide Serach"
+msgstr "Скрыть поиск"
+
+#: inc/customizer.php:433
+#@ first
+msgid "Post"
+msgstr "Запись"
+
+#: inc/customizer.php:440
+#@ first
+msgid "Display"
+msgstr "Показывать"
+
+#: inc/customizer.php:444
+#@ first
+msgid "Summary"
+msgstr "Кратко"
+
+#: inc/customizer.php:445
+#@ first
+msgid "Full text"
+msgstr "Весь текст"
+
+#: inc/customizer.php:453
+#@ first
+msgid "Hide Author"
+msgstr "Скрыть автора"
+
+#: inc/customizer.php:462
+#@ first
+msgid "Hide Categories"
+msgstr "Скрыть рубрики"
+
+#: inc/customizer.php:470
+#@ first
+msgid "Footer"
+msgstr "Футер"
+
+#: inc/customizer.php:478
+#@ first
+msgid "Footer Text"
+msgstr "Текст футера"
+
+#: inc/customizer.php:486
+#@ first
+msgid "Hide Credit"
+msgstr "Скрыть авторство"
+
+#: inc/customizer.php:494
+#: inc/customizer.php:503
+#@ first
+msgid "Custom CSS"
+msgstr "Свой CSS"
+
+#: inc/customizer.php:512
+#@ first
+msgid "Custom Google Fonts"
+msgstr ""
+
+#: inc/extras.php:47
+#, php-format
+#@ first
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-tags.php:38
+#@ first
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:42
+#@ first
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: inc/template-tags.php:46
+#@ first
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:69
+#@ first
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:72
+#@ first
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: inc/template-tags.php:72
+#, php-format
+#@ first
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:73
+#@ first
+msgid "Next post"
+msgstr "Следующая запись"
+
+#: inc/template-tags.php:73
+#, php-format
+#@ first
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:110
+#@ first
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: inc/template-tags.php:113
+#@ first
+msgid "Featured"
+msgstr "Прикреплено"
+
+#: inc/template-tags.php:126
+#: inc/template-tags.php:134
+#@ first
+msgid ", "
+msgstr ""
+
+#: search.php:16
+#, php-format
+#@ first
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
